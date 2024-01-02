@@ -1,1 +1,1 @@
-hangman python
+hangman python   Run in Hangman   Enter letter
